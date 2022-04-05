@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Rrjt+dnbTrXAiK62becUr2/o5mb/RfPs8OUPcsrC5Y2jBHE8BW40LIY6LoTWa5nTAfxGjMwOgjy2niOf7+tHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nargi\\Desktop\\File\\Directory\\Directory\\Directory_task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nargi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

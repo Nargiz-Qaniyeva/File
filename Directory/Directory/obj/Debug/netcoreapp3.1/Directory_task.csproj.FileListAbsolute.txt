@@ -1,0 +1,16 @@
+C:\Users\nargi\Desktop\File\Directory\Directory\obj\Debug\netcoreapp3.1\Directory_task.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\File\Directory\Directory\obj\Debug\netcoreapp3.1\Directory_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\File\Directory\Directory\obj\Debug\netcoreapp3.1\Directory_task.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\File\Directory\Directory\obj\Debug\netcoreapp3.1\Directory_task.AssemblyInfo.cs
+C:\Users\nargi\Desktop\File\Directory\Directory\obj\Debug\netcoreapp3.1\Directory_task.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\File\Directory\Directory\bin\Debug\netcoreapp3.1\Directory_task.exe
+C:\Users\nargi\Desktop\File\Directory\Directory\bin\Debug\netcoreapp3.1\Directory_task.deps.json
+C:\Users\nargi\Desktop\File\Directory\Directory\bin\Debug\netcoreapp3.1\Directory_task.runtimeconfig.json
+C:\Users\nargi\Desktop\File\Directory\Directory\bin\Debug\netcoreapp3.1\Directory_task.runtimeconfig.dev.json
+C:\Users\nargi\Desktop\File\Directory\Directory\bin\Debug\netcoreapp3.1\Directory_task.dll
+C:\Users\nargi\Desktop\File\Directory\Directory\bin\Debug\netcoreapp3.1\Directory_task.pdb
+C:\Users\nargi\Desktop\File\Directory\Directory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nargi\Desktop\File\Directory\Directory\obj\Debug\netcoreapp3.1\Directory_task.csproj.CopyComplete
+C:\Users\nargi\Desktop\File\Directory\Directory\obj\Debug\netcoreapp3.1\Directory_task.dll
+C:\Users\nargi\Desktop\File\Directory\Directory\obj\Debug\netcoreapp3.1\Directory_task.pdb
+C:\Users\nargi\Desktop\File\Directory\Directory\obj\Debug\netcoreapp3.1\Directory_task.genruntimeconfig.cache
